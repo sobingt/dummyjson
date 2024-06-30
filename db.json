@@ -112,6 +112,119 @@
         "deletedAt": null
       }
     ]
+  },
+  {
+    "id": 112,
+    "views": 158,
+    "tokenId": null,
+    "nftTransactionHash": null,
+    "productId": 262,
+    "brandName": "The Ten Co.",
+    "slug": "blue-zushi-the-ten-co.-3.5-33.2",
+    "title": "Blue Zushi",
+    "description": "Blue Zushi is a zkittlez dominant hybrid. With a total of 34% total cannabinoids. This strain not only wins competitions. It's been one of the most go to strains since 2019. With its complex candy aromas and uniqueness. It has the power to match too.",
+    "category": "Flower",
+    "subCategory": "Prepackaged Flower",
+    "retailPrice": 57.76,
+    "sellfromhub": true,
+    "selldirect": true,
+    "tags": "limonene,caryophyllene,TenCo,Blue Zushi,KEEPITTEN,classic",
+    "packageId": null,
+    "bundleRules": {},
+    "averageRating": 4.8182,
+    "numberOfReviews": 11,
+    "showPrice": true,
+    "isArchived": false,
+    "wholesaleprice": null,
+    "loyalty_tier_id": null,
+    "available": true,
+    "launch_date": null,
+    "bag_limit": null,
+    "deletedAt": null,
+    "strainId": null,
+    "assets": [
+      {
+        "assetId": 8092,
+        "link": "https://res.cloudinary.com/dcwq74lfg/image/upload/fl_lossy,f_auto/v1693587386/brand/TenCo/product/663cac4fb82164beb6e6dd2204098bac.png",
+        "altText": null,
+        "type": "image/png",
+        "view": "DEFAULT",
+        "deletedAt": null
+      }
+    ],
+    "batchId": 5,
+    "batchUID": "32",
+    "mfgDate": "2022-09-06T00:00:00.000Z",
+    "totalUnits": 2,
+    "brandId": 3,
+    "brand": {
+      "name": "TenCo",
+      "logo": "https://res.cloudinary.com/dcwq74lfg/image/upload/v1693586800/brand/TenCo/logos/2971f87976dbd1435cdfebd2eabb0fba.svg"
+    },
+    "firstScannedTime": "2022-09-13T15:57:30.632Z",
+    "firstLocation": "CA, USA",
+    "firstCoordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "alreadyClaimedPoints": false,
+    "isAlreadyReviewed": false,
+    "attrs": [
+      {
+        "attributeValue": "31.69%",
+        "name": "THC",
+        "value": "31.69",
+        "prefixAddOn": null,
+        "suffixAddOn": "%",
+        "suffixAddOnName": null
+      },
+      {
+        "attributeValue": "-47%",
+        "name": "CBD",
+        "value": "-47",
+        "prefixAddOn": null,
+        "suffixAddOn": "%",
+        "suffixAddOnName": null
+      },
+      {
+        "attributeValue": "33.71",
+        "name": "Cannabinoids",
+        "value": "33.71",
+        "prefixAddOn": null,
+        "suffixAddOn": null,
+        "suffixAddOnName": null
+      },
+      {
+        "attributeValue": "Hybrid",
+        "name": "Strain",
+        "value": "Hybrid",
+        "prefixAddOn": null,
+        "suffixAddOn": null,
+        "suffixAddOnName": null,
+        "category": null,
+        "deletedAt": null
+      },
+      {
+        "attributeValue": "3.5grams",
+        "name": "Size",
+        "value": "3.5",
+        "prefixAddOn": null,
+        "suffixAddOn": "grams",
+        "suffixAddOnName": "Grams",
+        "category": null,
+        "deletedAt": null
+      },
+      {
+        "attributeValue": "Euphoric,Creative",
+        "name": "Effects",
+        "value": "Euphoric,Creative",
+        "prefixAddOn": null,
+        "suffixAddOn": null,
+        "suffixAddOnName": null,
+        "category": null,
+        "deletedAt": null
+      }
+    ]
   }
  ]
 }
